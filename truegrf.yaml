@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f118527b
 license: GPL-2.0
+name: test1
 type: industry
+url: https://github.com/CaptainKlutz/test1
 version: 6
